@@ -1,0 +1,31 @@
+{
+    "name": "homeApp",
+    "version": "1.0.0",
+    "description": "front end for the rules app",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "jose roberts robenjos",
+    "license": "MIT",
+    "dependencies": {
+        "angular": "~1.6.9",
+        "angular-route": "~1.6.9",
+        "bootstrap": "^3.3.7",
+        "express": "^4.16.3",
+        "jquery": "~3.3.1"
+    },
+    "devDependencies": {
+        "grunt": "^1.0.3",
+        "grunt-contrib-clean": "^2.0.0",
+        "grunt-contrib-concat": "^1.0.1",
+        "grunt-contrib-copy": "^1.0.0",
+        "grunt-contrib-cssmin": "^3.0.0",
+        "grunt-contrib-uglify": "^4.0.0",
+        "grunt-filerev": "^2.3.1",
+        "grunt-usemin": "^3.1.1",
+        "grunt-zip": "^0.18.1",
+        "nodemon": "^1.17.5"
+    }
+}
