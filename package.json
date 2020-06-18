@@ -10,7 +10,7 @@
     "author": "jose roberts robenjos",
     "license": "MIT",
     "dependencies": {
-        "angular": "~1.6.9",
+        "angular": "~1.8.0",
         "angular-route": "~1.6.9",
         "bootstrap": "^3.3.7",
         "express": "^4.16.3",
